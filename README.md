@@ -16,4 +16,4 @@ Atualmente estudo HTML, CSS e JavaScript...👨‍💻
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-matias07&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-matias07&show_icons=true&theme=tokyonight)
