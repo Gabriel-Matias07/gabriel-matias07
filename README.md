@@ -1,6 +1,6 @@
-### Olá, eu sou o Gabriel 👋
+### Hello, I'm Gabriel 👋
 
-Atualmente estudo HTML, CSS e JavaScript...👨‍💻
+I currently study HTML, CSS and JavaScript...👨‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
