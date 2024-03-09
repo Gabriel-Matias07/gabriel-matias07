@@ -1,6 +1,6 @@
 ### Hello, I'm Gabriel 👋
 
-I currently study HTML, CSS JavaScript and Python...👨‍💻
+I currently study C and Python...👨‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
