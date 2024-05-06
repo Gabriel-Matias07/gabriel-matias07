@@ -19,11 +19,7 @@ Familiar with technologies I've touched on: <br> <br>
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg">
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg"> <br><br>
 
-  At the moment, I'm focused on learning and working with:
-
-- **Python**: I'm exploring the possibilities of this language and striving to apply it effectively in my projects.
-- **SQLite**: I'm deepening my knowledge in databases, utilizing SQLite to store and manage data efficiently.
-- **Django**: I'm refining my skills in development with the Django framework, with the goal of creating robust and scalable applications.
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-matias07&theme=dark&show_icons=true)
 
 </div>
   
