@@ -1,43 +1,52 @@
-### Hello, I'm Gabriel 👋
-#### Welcome to my GitHub profile! I'm on a journey of learning and gaining experience in the world of technology, and I'm committed to sharing that journey in this space.
-
-Currently studying and using:
-
-<div style="display: inline_block">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Debian-Light.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"> 
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg"> 
-  <br><br>
-
-Familiar with technologies I've touched on: <br><br>
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Debian-Light.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Mint-Light.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
-   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg"> 
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg"> <br><br>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-matias07&theme=dark&show_icons=true)
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
+
+# 🚀 Olá, eu sou Gabriel - Software Developer 
+
+## Sobre mim
+
+ Estou em uma jornada de aprendizado e crescimento no mundo da tecnologia. Busco constantemente desafios criativos e soluções inovadoras, misturando arte e código para criar experiências únicas. 
+
+## Habilidades Tecnológicas
+
+💻 Aqui estão algumas das tecnologias que estudo e utilizo:
+
+- **Linguagens de Programação:**
   
-  #
+  [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
+
+- **Frameworks e Bibliotecas:**
   
-<div>
-Get in touch with me: <br><br>
-  <a href = "mailto:gabrielpereiramatias07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+
+- **Bancos de Dados:**
+  
+  [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+
+- **Ferramentas e Tecnologias:**
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows)](https://skillicons.dev)
+
+- **Desenvolvimento Web:**
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+
+## Projetos Criativos
+
+🎨 Aqui estão alguns dos meus projetos:
+
+1. [Projeto 1](https://github.com/gabriel-matias07/projeto1): Uma solução inovadora desenvolvida com Python e Django.
+2. [Projeto 2](https://github.com/gabriel-matias07/projeto2): Uma aplicação interativa explorando Java e Banco de Dados.
+3. [Projeto 3](https://github.com/gabriel-matias07/projeto3): Um projeto web combinando HTML, CSS e JavaScript.
+
+## Vamos Criar Algo Incrível!
+
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo extraordinário juntos. ✉️
+
+## Vamos Conectar!
+
+<a href="mailto:gabrielpereiramatias07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-matias07&theme=dark&show_icons=true)
+
