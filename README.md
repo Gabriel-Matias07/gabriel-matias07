@@ -36,9 +36,9 @@
 
 🎨 Aqui estão alguns dos meus projetos:
 
-1. [Projeto 1](https://github.com/gabriel-matias07/projeto1): Uma solução inovadora desenvolvida com Python e Django.
-2. [Projeto 2](https://github.com/gabriel-matias07/projeto2): Uma aplicação interativa explorando Java e Banco de Dados.
-3. [Projeto 3](https://github.com/gabriel-matias07/projeto3): Um projeto web combinando HTML, CSS e JavaScript.
+1. [Excursões](https://alberio-excursoes.vercel.app/): Um site de excursões.
+2. [Vivere](https://github.com/vivereTeam/vivere-front): Uma plataforma de eCommerce de experiências que conecta usuários a atividades únicas e enriquecedoras, como workshops, passeios culturais, aulas especializadas e muito mais.
+3. [Portfolio](https://gabriel-matias07.github.io/my-portfolio/): Um projeto web combinando HTML, CSS e JavaScript.
 
 ## Vamos Criar Algo Incrível!
 
