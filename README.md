@@ -31,6 +31,7 @@
 - **Desenvolvimento Web:**
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+  
 
 ## Projetos Criativos
 
