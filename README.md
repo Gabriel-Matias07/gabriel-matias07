@@ -44,7 +44,7 @@
 
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo extraordinário juntos. ✉️
 
-## Vamos Conectar!
+## 👇 Envie-me uma mensagem!
 
 <a href="mailto:gabrielpereiramatias07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
