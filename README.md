@@ -4,6 +4,8 @@
 
 # 🚀 Olá, eu sou Gabriel - Software Developer 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=gabriel-matias07" alt="gabriel-matias07" /></a> </p>
+
 ## Sobre mim
 
  Estou em uma jornada de aprendizado e crescimento no mundo da tecnologia. Busco constantemente desafios criativos e soluções inovadoras, misturando arte e código para criar experiências únicas. 
