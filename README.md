@@ -1,5 +1,3 @@
-Aqui está o seu **README** atualizado com a seção de **Projetos em Andamento**. Abaixo está o conteúdo editado:
-
 ---
 
 <div align="center">
