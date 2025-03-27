@@ -2,11 +2,11 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# 🚀 Olá, eu sou Gabriel - Software Developer 
+# 🚀 Olá, eu sou Gabriel - Software Developer
 
 ## Sobre mim
 
- Estou em uma jornada de aprendizado e crescimento no mundo da tecnologia. Busco constantemente desafios criativos e soluções inovadoras, misturando arte e código para criar experiências únicas. 
+ Estou em uma jornada de aprendizado e crescimento no mundo da tecnologia. Busco constantemente desafios criativos e soluções inovadoras, misturando arte e código para criar experiências únicas.
 
 ## Habilidades Tecnológicas
 
@@ -14,19 +14,19 @@
 
 - **Linguagens de Programação:**
   
-  [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,c,js)](https://skillicons.dev)
 
 - **Frameworks e Bibliotecas:**
   
-  [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,bootstrap,flask)](https://skillicons.dev)
 
 - **Bancos de Dados:**
   
-  [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 - **Ferramentas e Tecnologias:**
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,docker,figma,vscode,eclipse)](https://skillicons.dev)
 
 - **Desenvolvimento Web:**
   
