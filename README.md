@@ -2,19 +2,19 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# 🚀 Olá, eu sou Gabriel - Software Developer
+# 🚀 Olá, eu sou Gabriel - Software Developer 
 
 ## Sobre mim
 
- Estou em uma jornada de aprendizado e crescimento no mundo da tecnologia. Busco constantemente desafios criativos e soluções inovadoras, misturando arte e código para criar experiências únicas.
+ Estou em uma jornada de aprendizado e crescimento no mundo da tecnologia. Busco constantemente desafios criativos e soluções inovadoras, misturando arte e código para criar experiências únicas. 
 
 ## Habilidades Tecnológicas
 
 💻 Aqui estão algumas das tecnologias que estudo e utilizo:
 
-- **Linguagens de Programação:**
+- **Linguagens de Programação e Desenvolvimento Web:**
   
-  [![My Skills](https://skillicons.dev/icons?i=java,python,c,js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,c,js,html,css)](https://skillicons.dev)
 
 - **Frameworks e Bibliotecas:**
   
@@ -27,10 +27,6 @@
 - **Ferramentas e Tecnologias:**
   
   [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,docker,figma,vscode,eclipse)](https://skillicons.dev)
-
-- **Desenvolvimento Web:**
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
   
 
 ## Projetos Criativos
