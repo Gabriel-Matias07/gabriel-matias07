@@ -6,7 +6,6 @@
 
 ## 🚀 Olá, eu sou Gabriel - Software Developer
 
----
 
 ## Sobre mim
 
