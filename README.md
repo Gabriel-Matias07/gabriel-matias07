@@ -33,7 +33,7 @@ Além de tecnologia, sou apaixonado por matemática e física, e tenho um grande
 
 - **Ferramentas e Tecnologias:**
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,docker,figma,vscode,eclipse)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,docker,figma,vscode,eclipse,idea,)](https://skillicons.dev)
 
 ---
 
