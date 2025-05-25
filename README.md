@@ -39,8 +39,8 @@ Além de tecnologia, sou apaixonado por matemática e física, e tenho um grande
 
 ## Projetos em Andamento
 
-### 1. **[Alberio Excursões](https://alberio-excursoes.vercel.app/)**
-Alberio Excursões é um sistema de gerenciamento de reservas para uma empresa de turismo. A plataforma permite o controle e organização de excursões, com funcionalidades para cadastro de viagens e clientes, facilitando a gestão das operações e o agendamento de passeios.
+### 1. **[FightLab](https://fightlab.vercel.app/)**
+FightLab é um site desenvolvido como projeto acadêmico com o objetivo de facilitar a pesquisa de informações sobre atletas de MMA (Mixed Martial Arts). Através do nome do lutador, o sistema consome uma API externa para retornar dados relevantes, como nacionalidade, categoria de peso, idade, imagem, entre outros.
 
 ### 2. **SmartIF**
 **SmartIF** é uma solução inovadora para modernizar a gestão de um campus agrícola do Instituto Federal. O sistema visa otimizar processos administrativos, pedagógicos e operacionais, promovendo eficiência e sustentabilidade. A plataforma possui uma interface intuitiva e integra diferentes setores como atividades docentes, infraestrutura, transporte estudantil e gestão de estágio. Entre os principais recursos, destacam-se:
